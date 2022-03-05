@@ -158,8 +158,6 @@ Deploy to public servers ([GitHub Pages](https://pages.github.com) for free)
 
 ---
 
----
-
 ### GitHub Pages
 
 * Structure
