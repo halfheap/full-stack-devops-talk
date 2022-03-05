@@ -1,0 +1,11 @@
+{
+  "name": "full-stack-devops-talk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.0.0",
+    "@marp-team/marp-cli": "^1.7.0"
+  }
+}
